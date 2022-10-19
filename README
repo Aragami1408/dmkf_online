@@ -1,0 +1,6 @@
+# Danmakufu Online
+
+## About Danmakufu Online
+**Danmakufu Online** is basically Danmakufu with online functionalities. 
+
+Danmakufu Online is written in C++11 using SFML library. This project is aimed to be supported on Windows, Mac and Linux only.
